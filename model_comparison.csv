@@ -1,4 +1,0 @@
-,MAE,RMSE,R2,MAPE
-Linear Regression,316.936,506.625,0.637,1776.8
-Random Forest,318.719,512.569,0.6284,2004.89
-Gradient Boosting Machine,306.26,494.098,0.6547,1883.23
